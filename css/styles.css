@@ -2,3 +2,14 @@
   background-image: url("../img/landing.jpg");
   text-align: center;
 }
+body {
+  font-size: 20px;
+}
+.happy {
+  height: 100px;
+  background-color: #F15A29;
+}
+.party {
+  height: 100px;
+  
+}
