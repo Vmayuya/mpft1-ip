@@ -1,6 +1,7 @@
 .back {
   background-image: url("../img/landing.jpg");
   text-align: center;
+  padding-bottom: 25px;
 }
 body {
   font-size: 20px;
@@ -14,4 +15,40 @@ body {
   }
 #tooth{
   width: 100%;
+}
+#land{
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  font-size: 40px
+}
+.col-md-3{
+  /* width: 100%; */
+  /* width: 100%; */
+  padding-left: 8px;
+  padding-bottom: 4px;
+
+}
+.stackem div{
+  position: inherit;
+  width: 165%;
+  padding-bottom: 112px;
+  text-align: center;
+  padding-right: 219px;
+  padding-left: 2px;
+}
+.area{
+  width: 100%;
+}
+#container{
+  width: 100%;
+  padding-top: 0px;
+}
+#sent{
+  width: 107%;
+  padding-left: 0px;
+  padding-right: 0px;
 }
