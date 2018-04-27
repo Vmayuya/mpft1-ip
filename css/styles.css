@@ -52,3 +52,15 @@ body {
   padding-left: 0px;
   padding-right: 0px;
 }
+.scary{
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  font-size: 40px
+}
+.foodBg {
+  background-image: url(../img/foodsBg.jpg);
+}
