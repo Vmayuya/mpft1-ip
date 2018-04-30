@@ -76,5 +76,16 @@ body {
   width: inherit;
 }
 #polite {
-  height: 300px
+  height: 300px;
+}
+#sour {
+  border-right-style: groove;
+}
+#tee {
+  background-image: url("../img/subscribe.jpg");
+  height: 301px;
+  text-align: center;
+}
+#chair {
+  color: white;
 }
