@@ -98,5 +98,12 @@ body {
   background-color: #f15A29;
   height: 300px;
   text-align: center;
-
+}
+#design {
+  font-size: 20;
+  color: #f15A29;
+}
+#dark {
+  color: #f15A29;
+  font-size: 20;
 }
