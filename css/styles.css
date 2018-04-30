@@ -61,6 +61,6 @@ body {
   text-align: center;
   font-size: 40px
 }
-.foodBg {
-  background-image: url(../img/foodsBg.jpg);
+#cheap {
+  background-image: url("../img/foodsBg.jpg");
 }
