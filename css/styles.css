@@ -115,6 +115,8 @@ body {
 }
 #ff {
   width: 292.5px;
+  background-color: transparent;
+  color: #f15A29;
 }
 #fd {
   width: 292.5px;
@@ -131,6 +133,7 @@ body {
 .foot {
   padding-right: 50px;
   text-align: right;
+  color: #f15A29;
 }
 .overlay {
     height: 100%;
@@ -186,3 +189,13 @@ body {
     margin-top: 100px;
     margin-left: 100px;
   }
+.carry:hover {
+  opacity: 0.5;
+  color: black;
+}
+#vv {
+  border-color: orange;
+}
+.tablink {
+  border-color: orange;
+}
