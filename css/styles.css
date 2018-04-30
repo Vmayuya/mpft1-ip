@@ -39,6 +39,7 @@ body {
   text-align: center;
   padding-right: 219px;
   padding-left: 2px;
+  height: 147.69px;
 }
 .area{
   width: 100%;
@@ -88,4 +89,14 @@ body {
 }
 #chair {
   color: white;
+}
+#orange {
+  color: white;
+  background-color: #f15A29;
+}
+#sweet {
+  background-color: #f15A29;
+  height: 300px;
+  text-align: center;
+
 }
