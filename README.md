@@ -1,14 +1,20 @@
-# Independent Project
-
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
-
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
-
-  4) Submit your link through Moringa School LMS.
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+# ANITA'S KITCHEN
+#### The Application describes a named person,Anita and the food and drinks she offers,30-04-2018
+#### By **VICTORIA MAYUYA**
+## Description
+This Application is designed to create awareness to the masses about the food and services they can get at Anita's Kitchen.
+It also details the menus on offer and some of the reactions from previous customers and the number build up.
+## Setup/Installation Requirements
+* This is a great place
+* to list setup instructions
+* in a simple
+* easy-to-understand
+* format
+## Known Bugs
+So far none, the Application works just fine.
+## Technologies Used
+Javascript, jquery,HTML,CSS
+## Support and contact details
+Incase of any issues or difficulties contact me via my mobile +254716825624 or email victoriamayuya09@gmail.com
+### License
+Copyright (c) 2018 **VICTORIA MAYUYA, ELVIS AMUNI, CLIFFORD KASERA**

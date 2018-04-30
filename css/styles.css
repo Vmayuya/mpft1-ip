@@ -1,5 +1,7 @@
 .back {
   background-image: url("../img/landing.jpg");
+}
+.back2 {
   text-align: center;
   padding-bottom: 25px;
 }
@@ -72,6 +74,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 100px;
+  padding-left: 0px;
 }
 #precious {
   width: inherit;
@@ -100,10 +103,86 @@ body {
   text-align: center;
 }
 #design {
-  font-size: 20;
+  font-size: 20px;
   color: #f15A29;
 }
 #dark {
   color: #f15A29;
-  font-size: 20;
+  font-size: 20px;
 }
+#capture {
+  font-size: 30px;
+}
+#ff {
+  width: 292.5px;
+}
+#fd {
+  width: 292.5px;
+}
+#ck {
+  width: 292.5px;
+}
+#ri {
+  width: 292.5px;
+}
+.panel-footer {
+  text-align: center;
+}
+.foot {
+  padding-right: 50px;
+  text-align: right;
+}
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+  .veer {
+    position: absolute;
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+  }

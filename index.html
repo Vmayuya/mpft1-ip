@@ -8,11 +8,24 @@
     <script src="js/scripts.js"></script>
   </head>
   <body>
-    <header class="back">
-        <img  id="school" src="img/logoBig.png">
-          <p> We Provide The Best Food<br>
-                  at The Right Price</p>
-    </header>
+    <div class="back">
+    <div id="myNav" class="overlay back">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact</a>
+      </div>
+      </div>
+      <span class="veer" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+        <header class="back2">
+          <img  id="school" src="img/logoBig.png">
+          <p id="capture"><strong>We Provide The Best Food</strong><br>
+                  <strong>at The Right Price</strong>
+                      </p>
+        </header>
+      </div>
       <div id="container">
         <div class="area">
         <div class="row">
@@ -83,8 +96,6 @@
             <br>
             <br>
             <br>
-            <br>
-            <br>
             <div class="container" id="sharp">
               <div class="panel-heading" id="precious">
                 <div class="col-md-3">
@@ -113,16 +124,20 @@
               </div>
               <div class="panel-footer">
                 <div class="col-md-3">
-                      Chicken Burger
+                      <p class="foot">Chicken Burger</p>
                 </div>
                 <div class="col-md-3">
-                    Beef Burger
+                    <p class="foot">Beef Burger</p>
                 </div>
                 <div class="col-md-3">
-                    Chicken Pizza
+                    <p class="foot">Chicken Pizza</p>
                 </div>
               </div>
             </div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
           <div class="container" id="cont">
             <div class="well" id="polite">
               <div class="col-md-7" id="sour">
@@ -147,8 +162,7 @@
               <input placeholder="Your Email"></input>
               <button id="orange">Subscribe</button>
             </form>
-          </div>
-          </div>
+            </div>
           </div>
           <div class="container-fluid" id="sweet">
             <div class="row">
