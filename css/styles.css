@@ -63,4 +63,12 @@ body {
 }
 #cheap {
   background-image: url("../img/foodsBg.jpg");
+  height: 599px;
+}
+#sharp {
+  background-color: white;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 100px;
 }
