@@ -72,3 +72,6 @@ body {
   margin-left: auto;
   margin-bottom: 100px;
 }
+#precious {
+  width: inherit;
+}
