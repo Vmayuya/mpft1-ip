@@ -5,9 +5,6 @@
   text-align: center;
   padding-bottom: 25px;
 }
-body {
-  font-size: 20px;
-}
 .happy {
   height: 100px;
   background-color: #F15A29;
@@ -50,7 +47,10 @@ body {
   width: 100%;
   padding-top: 0px;
 }
-#sent{
+#saint:hover {
+  color: rgba(0,0,0, 0.9);
+}
+#sent {
   width: 107%;
   padding-left: 0px;
   padding-right: 0px;
@@ -84,10 +84,14 @@ body {
 }
 #sour {
   border-right-style: groove;
+  text-align: center;
 }
 #tee {
   background-image: url("../img/subscribe.jpg");
   height: 301px;
+  text-align: center;
+}
+.col-md-5{
   text-align: center;
 }
 #chair {
@@ -201,4 +205,7 @@ body {
 }
 #dd {
   color: #f15A29;
+}
+#white {
+  color: white;
 }
